@@ -7,7 +7,7 @@ Este projeto demonstra a aplicação do **Padrão Decorator** (Padrão Estrutura
 O principal objetivo é simular a montagem de um plano de internet onde o cliente pode adicionar serviços extras (como streaming e internet ilimitada) ao plano base, garantindo que o custo e a descrição sejam atualizados automaticamente.
 
 ## 📌 Diagrama de Classes
-![Diagrama UML](diagrama_de_classes.jpg)
+![Diagrama UML](diagrama_de_classes.jpeg)
 
 ## 👩‍💻 Autora
 **Eduarda Araujo Carvalho** 
