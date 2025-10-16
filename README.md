@@ -1,4 +1,4 @@
-## 🌐 Sistema de Agendamento e Customização de Planos de Internet
+# 🌐 Sistema de Agendamento e Customização de Planos de Internet
 
 Este projeto demonstra a aplicação do **Padrão Decorator** (Padrão Estrutural) em Java para criar e customizar dinamicamente planos de serviço, adicionando benefícios e calculando o custo final de forma flexível.
 
